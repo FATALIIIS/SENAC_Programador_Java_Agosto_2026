@@ -1,2 +1,2 @@
-# SENAC_Programador_Java_Agosto_2026
+# SENAC Programador Java Agosto 2026
 Repositório do Curso de Programação Java (Agosto 2026)
